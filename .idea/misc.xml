@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="enabledOnSave" value="true" />
+    <option name="executionMode" value="BINARY" />
+    <option name="pathToExecutable" value="/usr/local/bin/black" />
+    <option name="sdkUUID" value="cc13106d-492d-4499-bd9e-fdcbeb3d8999" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Poetry (nts_scraper)" project-jdk-type="Python SDK" />
+</project>
